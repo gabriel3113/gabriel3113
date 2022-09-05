@@ -4,8 +4,7 @@
 
 
 
-[![gabriel GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=gabriel3113&show_icons=true&theme=dracula)]
+[![gabriel GitHub stats]](https://github-readme-stats.vercel.app/api?username=gabriel3113&show_icons=true&theme=dracula)
 
 ### habilidades
 
