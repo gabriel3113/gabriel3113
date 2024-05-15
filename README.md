@@ -1,14 +1,6 @@
 ### Olá! eu sou o Gabriel Ziviani👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabrielziviani-7804111ba)
 
-
-
-
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel3113&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel3113&layout=compact)](https://github.com/gabriel3113/github-readme-stats)
 
 ### habilidades✨✨
 
